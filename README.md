@@ -5,8 +5,9 @@ My azure resume, following [ACG project video.] (https://www.youtube.com/watch?v
 
 - Frontend folder contains the website.
 - main.js contains visitor counter code.
+- backend folder contains API code
 
-# Javascript code snip
+### Javascript code snip
 
 ```js
 const 
