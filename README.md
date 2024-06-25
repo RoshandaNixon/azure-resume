@@ -1,14 +1,14 @@
 # azure-resume
 My azure resume, following [ACG project video.] (https://www.youtube.com/watch?v=ieYrBWmkfno&t=351s)
 
-## First steps
+## Description
 
 - Frontend folder contains the website.
 - main.js contains visitor counter code.
-- backend folder contains API code
+- backend folder contains API code for Azure Function
 
-### Javascript code snip
+### Issues
+API code written in C# is not working
 
-```js
-const 
-```
+### Work in progress
+Learning to write API using PowerShell
