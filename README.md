@@ -11,4 +11,4 @@ My azure resume, following [ACG project video.] (https://www.youtube.com/watch?v
 API code written in C# is not working
 
 ### Work in progress
-Learning to write API using PowerShell
+Learning to write API using Python
